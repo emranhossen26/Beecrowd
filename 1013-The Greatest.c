@@ -10,3 +10,4 @@ int main()
 
     return 0;
 }
+//Learn:abs is Modulus function(||).
